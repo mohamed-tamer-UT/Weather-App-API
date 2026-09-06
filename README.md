@@ -1,4 +1,4 @@
-# 🌤️ Weather App
+# 🌤️ Weather App API
 
 A clean and user-friendly desktop weather application built with **Python** and **PyQt5** that displays real-time weather information using the **OpenWeatherMap API**.
 
@@ -47,7 +47,7 @@ This desktop application provides users with instant weather information for any
 ```text
 Weather-App-API/
 │
-├── weather_app.py          # Main application code
+├── weather_app_api.py          # Main application code
 ├── requirements.txt        # Python dependencies
 ├── .env.example            # Example environment variables
 ├── .gitignore              # Git ignore rules
@@ -86,7 +86,7 @@ Replace `your_openweathermap_api_key` with your API key from OpenWeatherMap.
 ### 4. Run the Application
 
 ```bash
-python weather_app.py
+python weather_app_api.py
 ```
 
 ## 🐛 Error Handling
