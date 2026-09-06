@@ -47,7 +47,7 @@ This desktop application provides users with instant weather information for any
 ```text
 Weather-App-API/
 │
-├── weather_app_api.py          # Main application code
+├── weather_app_api.py      # Main application code
 ├── requirements.txt        # Python dependencies
 ├── .env.example            # Example environment variables
 ├── .gitignore              # Git ignore rules
